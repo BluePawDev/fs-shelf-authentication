@@ -23,7 +23,7 @@
     "bcrypt": "^1.0.2",
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
-    "mongoose": "^4.10.8",
+    "mongoose": "^5.7.5",
     "sweetalert": "^1.1.3"
   }
 }
