@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/BluePawDev/shelf-auth-full#readme",
   "dependencies": {
-    "angular": "^1.6.4",
+    "angular": "^1.8.0",
     "angular-route": "^1.6.4",
     "bcrypt": "^1.0.2",
     "body-parser": "^1.17.2",
